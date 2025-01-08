@@ -7,7 +7,7 @@ const properties = [
     id: "1",
     name: "MIT",
     address: "India, Maharashtra, Pune, Alandi",
-    rent: "$1200",
+    rent: "4,00,000",
     tenants: "Pratap Khandekar",
     maintenanceStatus: "Good",
     image:
@@ -17,7 +17,7 @@ const properties = [
     id: "2",
     name: "Taj Hotel ",
     address: "Moshi, Pune, Maharashtra",
-    rent: "$900",
+    rent: "9,00,000",
     tenants: "Akshata Bhimnale",
     maintenanceStatus: "Needs Repair",
     image: "https://learnjaipur.in/wp-content/uploads/2021/09/infosis.jpg",
