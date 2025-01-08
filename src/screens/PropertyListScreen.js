@@ -10,7 +10,8 @@ const properties = [
     rent: "$1200",
     tenants: "Pratap Khandekar",
     maintenanceStatus: "Good",
-    image: "https://via.placeholder.com/400x200", // Replace with real property image
+    image:
+      "https://lh3.googleusercontent.com/p/AF1QipMDDktR6fWLJe1Hccv2z0eTNYPeqfJmXc2kJ_3G=s1360-w1360-h1020",
   },
   {
     id: "2",
@@ -19,7 +20,7 @@ const properties = [
     rent: "$900",
     tenants: "Akshata Bhimnale",
     maintenanceStatus: "Needs Repair",
-    image: "https://via.placeholder.com/400x200", // Replace with real property image
+    image: "https://learnjaipur.in/wp-content/uploads/2021/09/infosis.jpg",
   },
 ];
 
